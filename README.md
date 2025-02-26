@@ -1,5 +1,4 @@
 # Online-Retailer-Analysis
-Online Retail Store Analysis & Strategic Planning
 This project analyzes an online retail store's performance to provide data-driven insights and recommendations for strategic planning.
 
 Project Goals:
